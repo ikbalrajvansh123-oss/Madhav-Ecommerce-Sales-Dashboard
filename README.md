@@ -10,7 +10,7 @@ The dashboard is designed to provide a clear business overview through interacti
 
 > Add your dashboard screenshot to `Screenshot/dashboard.png`.
 
-![Madhav Ecommerce Sales Dashboard](Screenshots/dashboard.png)
+![Madhav Ecommerce Sales Dashboard](screenshot/dashboard.png)
 
 ---
 
