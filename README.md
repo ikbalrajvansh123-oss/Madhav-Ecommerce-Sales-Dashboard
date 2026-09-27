@@ -6,14 +6,6 @@ The dashboard is designed to provide a clear business overview through interacti
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot to `Screenshot/Dashboard.png`.
-
-![Madhav Ecommerce Sales Dashboard](screenshot/Dashboard.png)
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to build an interactive Power BI dashboard that helps understand ecommerce business performance from different dimensions.
